@@ -1,2 +1,4 @@
 # pandas-challenge
-This is a project doing analysis using pandas 
+
+In this project, I am creating and manipulating Pandas DataFrames to analyze school and standardized test data.
+
